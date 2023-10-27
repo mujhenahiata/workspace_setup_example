@@ -16,3 +16,8 @@ step 3
 git commit -m "some message reading the commit"
 ```
 
+step 4
+if your have done something in website, pullt eh changes
+```
+git pull
+```
