@@ -18,6 +18,6 @@ activate
 echo [$(date)]: "installing the dev requirements"
 
 # Install project dependencies from requirements.txt using pip
-pip install -r requirements.txt
+pip install -r requirements.txt # you can mention this in as a function in setup.py
 
 echo [$(date)]: "END"
