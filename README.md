@@ -36,5 +36,6 @@ step 6
 ways to install 
 
 python setup.py install
+pip install -e .
 
 ```
